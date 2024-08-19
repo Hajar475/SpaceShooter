@@ -126,7 +126,7 @@
             label1.BackColor = Color.Wheat;
             label1.ForeColor = Color.DarkOrange;
             label1.LiveSetting = System.Windows.Forms.Automation.AutomationLiveSetting.Assertive;
-            label1.Location = new Point(368, 137);
+            label1.Location = new Point(373, 137);
             label1.Name = "label1";
             label1.Size = new Size(66, 40);
             label1.TabIndex = 3;

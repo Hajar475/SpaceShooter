@@ -425,10 +425,7 @@ namespace SpaceShooter
 
         }
 
-        private void score_Click(object sender, EventArgs e)
-        {
-
-        }
+      
 
         private void btnlevel_Click(object sender, EventArgs e)
         {
